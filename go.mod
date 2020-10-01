@@ -31,4 +31,5 @@ require (
 	google.golang.org/protobuf v1.24.0 // cannot upgrade until warning is fixed
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v2 v2.3.0
+	github.com/caddy-dns/digitalocean v0.0.0-20200817205445-6517b24dab4a
 )
